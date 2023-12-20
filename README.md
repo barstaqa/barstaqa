@@ -2,7 +2,7 @@
 
 # Hi, I'm Bartek 👋
 
-I am an Automation QA Engineer specializing in test automation using the Playwright and Cypress framework, using JavaScript and TypeScript.
+I am an Automation QA Engineer specializing in test automation using the Playwright and Cypress framework, in JavaScript / TypeScript.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olaf-sulich/)](https://www.linkedin.com/in/stachowskib/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olafsulich@gmail.com)](mailto:stachowski.bartekh@gmail.com)
